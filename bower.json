@@ -1,0 +1,22 @@
+{
+  "name": "tech_talk_reusable",
+  "version": "0.0.1",
+  "authors": [
+    "Mohan Shanmuarajah"
+  ],
+  "description": "This is a test re-usable file created for demo purpose",
+  "main": "default.js",
+  "keywords": [
+    "my_reusable",
+    "tech_talk"
+  ],
+  "license": "MIT",
+  "homepage": "http://shanmohan.blogger.com",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
